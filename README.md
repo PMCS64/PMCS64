@@ -1,6 +1,6 @@
-# Pushing :parking:
+# PMC
 
-🇬🇧 London
+🇬🇧 London, United Kingdom
 
 ## Repositories
 
@@ -26,7 +26,7 @@ I am an avid traveler, eager to discovering new places.
   * :fr: Cassis, Bouches-du-Rhône, France
   * :fr: Nîmes, Gard, France
   * :fr: Montpellier, Hérault, France
-  * :fr: Canet-en-Roussillon, Pyrénées-Orientiales
+  * :fr: Canet-en-Roussillon, Pyrénées-Orientiales, France
 
 ### 2023
 
@@ -48,3 +48,32 @@ I am an avid traveler, eager to discovering new places.
 * :es: Barcelona, Catalonia, Spain
 * :us: New York, NY, United States
 * :us: Miami, FL, United States
+
+### Prior
+
+* Spain :es:
+ * :es: Barcelona, Catalonia, Spain
+ * :es: Valencia, Community of Valencia, Spain
+ * :es: Port Aventura, Catalonia, Spain
+ * :es: Ibiza, Balearic Islands, Spain
+ * :es: La Masella, Catalonia, Spain
+* Italy :it:
+ * :it: Milan, Lombardy, Italy
+ * :it: Florence, Tuscany, Italy
+ * :it: Naples and Amalfi Coast, Campania, Italy
+ * :it: Rome, Lazio, Italy
+ * :it: Metaponto, Basilicata, Italy
+* France :fr:
+ * :fr: Serre Chevalier, Rhône-Alpes, France
+ * :fr: Les Arcs, Rhône-Alpes, France
+ * :fr: Nîmes, Gard, France
+ * :fr: Montpellier, Gard, France
+ * :fr: Toulouse, Haute-Garonne, France
+ * :fr: Carcassonne, Aude, France
+ * :fr: Marseille, Bouches-du-Rhône, France
+* Other
+ * 🇨🇭 Geneva, Canton of Geneva, Switzerland
+ * :andorra: El Tarter, Andorra
+ * 🇳🇱 Amsterdam, North Holland, Netherlands
+ * 🇧🇪 Brussels, Capitale, Belgium
+ * :uk: Cambridge, Cambridgeshire, United Kingdom
