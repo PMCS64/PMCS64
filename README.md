@@ -18,7 +18,6 @@ I am an avid traveler, eager to discovering new places.
 
 ### 2024
 
-* 🇦🇬 Dickenson Bay, Antigua and Barbuda
 * :us: New York, NY, United States
 * South of France Roadtrip :palm_tree:
   * :fr: Cannes, Alpes-Maritimes, France
