@@ -10,7 +10,7 @@ Professional S64 GitHub Account
 
 * [AltoFlex Data Repository](https://github.com/s64capital-research/AltoFlex-Data-Repository)
 
-### Personal
+### Major developments made public
 
 * [django-open-ai](https://github.com/PMCS64/django-open-ai)
 
