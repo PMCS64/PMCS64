@@ -28,6 +28,8 @@ I am an avid traveler, eager to discovering new places.
   * :fr: Nîmes, Gard, France
   * :fr: Montpellier, Hérault, France
   * :fr: Canet-en-Roussillon, Pyrénées-Orientiales, France
+  * :es: Barcelona, Catalonia, Spain
+* 🇩🇴 Punta Cana, Dominican Republic  
 
 ### 2023
 
@@ -37,6 +39,7 @@ I am an avid traveler, eager to discovering new places.
 * :monaco: Monte-Carlo, Monaco
 * California Pacific Roadtrip 🌊
   * :us: San Francisco, CA, United States
+  * :us: Carmel-by-the-Sea, CA, United States
   * :us: Santa Barbara, CA, United States
   * :us: Los Angeles, CA, United States
   * :us: Laguna Beach, CA, United States
