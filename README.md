@@ -61,6 +61,7 @@ I am an avid traveler, eager to discovering new places.
   * :es: Port Aventura, Catalonia, Spain
   * :es: Ibiza, Balearic Islands, Spain
   * :es: La Masella, Catalonia, Spain
+  * :es: Madrid, Community of Madrid, Spain
 * Italy :it:
   * :it: Milan, Lombardy, Italy
   * :it: Florence, Tuscany, Italy
