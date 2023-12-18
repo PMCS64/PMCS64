@@ -2,6 +2,8 @@
 
 🇬🇧 London, United Kingdom
 
+Professional S64 GitHub Account
+
 ## Repositories
 
 ### S64 Capital Research
