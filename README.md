@@ -29,6 +29,7 @@ I am an avid traveler, eager to discovering new places.
   * :fr: Montpellier, Hérault, France
   * :fr: Canet-en-Roussillon, Pyrénées-Orientiales, France
   * :es: Barcelona, Catalonia, Spain
+* :es: Peguera, Mallorca, Spain
 * 🇩🇴 Punta Cana, Dominican Republic  
 
 ### 2023
