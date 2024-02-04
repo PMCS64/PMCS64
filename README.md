@@ -9,6 +9,7 @@ Professional S64 GitHub Account
 ### S64 Capital Research
 
 * [AltoFlex Data Repository](https://github.com/s64capital-research/AltoFlex-Data-Repository)
+* [AltoFlex Automation](https://github.com/s64capital-research/AltoFlex-Automation)
 
 ### Major developments made public
 
