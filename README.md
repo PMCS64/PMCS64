@@ -3,7 +3,7 @@ Associate of the Royal College of Science
 
 Pierre spearheads S64 Capital's data capabilities with the development of our comprehensive data repository and analytics platform. Previously, Pierre structured over $4bn worth of equity derivatives products at Credit Suisse globally, and automated the lifecycle of those products generating over $40m of low-touch revenue in the span of 3 years. Pierre holds a Bachelor of Science in Mathematics from Imperial College London, where he specialized in biomathematics, statistical modeling, and machine learning/AI.
 
-LinkedIn | Work Email | Public Academic Work
+[LinkedIn](https://www.linkedin.com/in/yopierre/?locale=en_US) | [Work Email](mailto:pierre.moutounet-cartan@s64capital.com) | [Public Academic Work](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FMoutounet-Cartan%2C%20P%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FMoutounet-Cartan%2C%20P%22)&q=author%3A%22Moutounet-Cartan%2C%20Pierre%20G.%20B.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 🇬🇧 London, United Kingdom
 
@@ -11,7 +11,7 @@ Professional S64 GitHub Account
 
 ## Repositories
 
-### S64 Capital Research
+### [S64 Capital Research](https://github.com/s64capital-research/)
 
 * [AltoFlex Data Repository](https://github.com/s64capital-research/AltoFlex-Data-Repository)
 * [AltoFlex Automation](https://github.com/s64capital-research/AltoFlex-Automation)
