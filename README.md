@@ -1,4 +1,9 @@
-# PMC
+# Pierre Moutounet-Cartan (PMC)
+Associate of the Royal College of Science
+
+Pierre spearheads S64 Capital's data capabilities with the development of our comprehensive data repository and analytics platform. Previously, Pierre structured over $4bn worth of equity derivatives products at Credit Suisse globally, and automated the lifecycle of those products generating over $40m of low-touch revenue in the span of 3 years. Pierre holds a Bachelor of Science in Mathematics from Imperial College London, where he specialized in biomathematics, statistical modeling, and machine learning/AI.
+
+LinkedIn | Work Email | Public Academic Work
 
 🇬🇧 London, United Kingdom
 
