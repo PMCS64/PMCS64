@@ -14,10 +14,6 @@ _Pierre spearheads S64 Capital's data capabilities with the development of S64's
 * [AltoFlexDARE Android App](https://github.com/s64capital-research/AltoFlexDARE-Kotlin-Android) via Kotlin
 * [AltoFlex Automation](https://github.com/s64capital-research/AltoFlex-Automation) via Python
 
-### Major developments made public
-
-* [django-open-ai](https://github.com/PMCS64/django-open-ai)
-
 ## Traveling
 
 I am an avid traveler, eager to discovering new places.
