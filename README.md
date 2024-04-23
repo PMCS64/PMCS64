@@ -18,7 +18,7 @@ _Pierre spearheads S64 Capital's data capabilities with the development of S64's
 
 I am an avid traveler, eager to discovering new places.
 
-## 2025
+### 2025
 * 🇧🇧 South Gap, Barbados
 * 🇯🇲 Montego Bay, Jamaica
 
