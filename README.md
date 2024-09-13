@@ -18,11 +18,13 @@ _Pierre spearheads S64 Capital's data capabilities with the development of S64's
 
 I am an avid traveler, eager to discovering new places.
 
-### 2025
+### 2025 🌎
 * 🇧🇧 South Gap, Barbados
+* :us: Miami, FL, United States
+* 🇧🇸 Nassau, Bahamas 
 * 🇯🇲 Montego Bay, Jamaica
 
-### 2024
+### 2024 🌍🌎
 
 * :us: New York, NY, United States
 * South of France Roadtrip :palm_tree:
@@ -36,7 +38,7 @@ I am an avid traveler, eager to discovering new places.
 * :es: Peguera, Mallorca, Spain
 * 🇩🇴 Punta Cana, Dominican Republic  
 
-### 2023
+### 2023 🌍🌎
 
 * :st_lucia: Castries, Saint Lucia
 * :es: Platja d'Aro, Catalonia, Spain
@@ -50,7 +52,7 @@ I am an avid traveler, eager to discovering new places.
   * :us: Laguna Beach, CA, United States
 * 🇦🇪 Dubai, Emirate of Dubai, United Arab Emirates
 
-### 2022
+### 2022 🌍🌎
 
 * 🇧🇧 Christ Church, Barbados
 * :fr: Paris, Île-de-France, France
@@ -58,7 +60,7 @@ I am an avid traveler, eager to discovering new places.
 * :us: New York, NY, United States
 * :us: Miami, FL, United States
 
-### Prior
+### Prior 🌍
 
 * Spain :es:
   * :es: Barcelona, Catalonia, Spain
