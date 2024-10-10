@@ -16,7 +16,7 @@ _Pierre spearheads S64 Capital's data capabilities with the development of S64's
 
 ## Traveling
 
-I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::jamaica::st_lucia::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium:
+I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::jamaica::st_lucia::kenya::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium:
 
 ### 2025 🌎
 * :us: Miami, FL, United States
