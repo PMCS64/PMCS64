@@ -19,9 +19,10 @@ _Pierre spearheads S64 Capital's data capabilities with the development of S64's
 I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::jamaica::st_lucia::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium:
 
 ### 2025 🌎
-* 🇧🇧 South Gap, Barbados
 * :us: Miami, FL, United States
 * 🇧🇸 Nassau, Bahamas 
+* 🇰🇪 Diani Beach, Kenya
+* :kenya: Tsavo East National Park, Kenya
 * 🇯🇲 Montego Bay, Jamaica
 
 ### 2024 🌍🌎
