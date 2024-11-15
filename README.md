@@ -5,8 +5,7 @@ _Pierre spearheads S64 Capital's data capabilities with the development of S64's
 
 [LinkedIn](https://www.linkedin.com/in/yopierre/?locale=en_US) | [Work Email](mailto:pierre.moutounet-cartan@s64capital.com) | [Public Academic Work](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FMoutounet-Cartan%2C%20P%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FMoutounet-Cartan%2C%20P%22)&q=author%3A%22Moutounet-Cartan%2C%20Pierre%20G.%20B.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
-**Important notice: this account is not active as of August 2024 as all repositories have been migrated to Azure DevOps.
-**
+**Important notice: this account is not active as of August 2024 as all repositories have been migrated to Azure DevOps.**
 
 ## Repositories
 
