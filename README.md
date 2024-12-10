@@ -9,6 +9,8 @@ _Pierre spearheads S64 Capital's data capabilities with the development of S64's
 
 ## Repositories
 
+Most, if not all, of the below repositories are private and on Azure DevOps. You will be redirected. 
+
 ### [S64 Capital Research](https://dev.azure.com/s64capital/S64%20Data)
 
 * [AltoFlex Data Repository (AltoFlexDARE)](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlex-Data-Repository) via Python (Django), JavaScript, CSS, and more
