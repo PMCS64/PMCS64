@@ -9,12 +9,11 @@ _Pierre spearheads S64 Capital's data capabilities with the development of S64's
 
 ## Repositories
 
-### [S64 Capital Research](https://github.com/s64capital-research/)
+### [S64 Capital Research](https://dev.azure.com/s64capital/S64%20Data)
 
-* [AltoFlex Data Repository (AltoFlexDARE)](https://github.com/s64capital-research/AltoFlex-Data-Repository) via Python (Django), JavaScript, CSS, and more
-* [AltoFlexDARE iOS App](https://github.com/s64capital-research/AltoFlexDARE-Swift-iOS) via Swift
-* [AltoFlexDARE Android App](https://github.com/s64capital-research/AltoFlexDARE-Kotlin-Android) via Kotlin
-* [AltoFlex Automation](https://github.com/s64capital-research/AltoFlex-Automation) via Python
+* [AltoFlex Data Repository (AltoFlexDARE)](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlex-Data-Repository) via Python (Django), JavaScript, CSS, and more
+* [AltoFlexDARE iOS App](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlexDARE-iOS) via Swift
+* [AltoFlexDARE Android App](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlexDARE-Android-Kotlin) via Kotlin
 
 ## Traveling
 
