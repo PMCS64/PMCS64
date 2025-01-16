@@ -26,7 +26,6 @@ I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es:
 * 🇧🇸 Nassau, Bahamas 
 * 🇰🇪 Diani Beach, Kenya
 * :kenya: Tsavo East National Park, Kenya
-* 🇯🇲 Montego Bay, Jamaica
 * 🇪🇸 Sant Feliu de Guixols, Catalonia, Spain
 
 ### 2024 🌍🌎
