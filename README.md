@@ -17,9 +17,19 @@ Most, if not all, of the below repositories are private and on Azure DevOps. You
 * [AltoFlexDARE iOS App](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlexDARE-iOS) via Swift
 * [AltoFlexDARE Android App](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlexDARE-Android-Kotlin) via Kotlin
 
-## Traveling
+## Astronomy 🌌🔭
 
-I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::jamaica::st_lucia::kenya::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium:
+I’m an amateur astronomer with a passion for exploring the night sky. I use a Newtonian reflector telescope on a Dobsonian mount (203mm/1200m with focal ratio f/6) to observe planets, nebulae, star clusters, and galaxies. Stargazing is my way of connecting with the cosmos and appreciating the vastness of our universe. Whether it’s tracking celestial events, capturing details of star clusters, or gazing at the Orion Nebula, I’m always in awe of the wonders above. Light pollution presents a challenge in my area, but it hasn’t dimmed my enthusiasm. I love sharing my experiences and learning from the vibrant community of fellow astronomers! You can find some of my observations on this [blog](https://pierremoutounet.wixsite.com/pmc-observatory/blog).
+
+| ![alt](https://static.wixstatic.com/media/b6cf92_920adf0a22af457da028a583020cb265~mv2.jpg) | ![alt](https://static.wixstatic.com/media/b6cf92_7b6e618ce8f545ea96a6d6bde6a3f345~mv2.jpg)
+| ---- | ---- |
+| The Moon | The Orion Nebula (Orion Constellation) |
+
+I regularly go to school or outreach events to encourage kids and adults to like science in general! Please get in touch if you'd like to donate, your funds will be greatly appreciated - I give away telescopes, books, experiments, or any other STEM-linked donation of your choice to state schools, universities' outreach teams, and public libraries.
+
+## Traveling 🌍🌎
+
+I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::st_lucia::kenya::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium:
 
 ### 2025 🌍🌎
 * :us: Miami, FL, United States
