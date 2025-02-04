@@ -21,17 +21,17 @@ Most, if not all, of the below repositories are private and on Azure DevOps. You
 
 I’m an amateur astronomer with a passion for exploring the night sky. I use a Newtonian reflector telescope on a Dobsonian mount (203mm/1200m with focal ratio f/6) to observe planets, nebulae, star clusters, and galaxies. Stargazing is my way of connecting with the cosmos and appreciating the vastness of our universe. Whether it’s tracking celestial events, capturing details of star clusters, or gazing at the Orion Nebula, I’m always in awe of the wonders above. Light pollution presents a challenge in my area, but it hasn’t dimmed my enthusiasm. I love sharing my experiences and learning from the vibrant community of fellow astronomers! You can find some of my observations on this [blog](https://pierremoutounet.wixsite.com/pmc-observatory/blog).
 
-| ![alt](https://static.wixstatic.com/media/b6cf92_920adf0a22af457da028a583020cb265~mv2.jpg) | ![alt](https://static.wixstatic.com/media/b6cf92_e88b0ec2790d4e7ca8432c7759f47956~mv2.png)
+| ![alt](https://static.wixstatic.com/media/b6cf92_94f9aeebcd5a445b8a69fa0a838f9f70~mv2.png/v1/fill/w_3030,h_1706,al_c,q_90/b6cf92_94f9aeebcd5a445b8a69fa0a838f9f70~mv2.webp) | ![alt](https://static.wixstatic.com/media/b6cf92_e88b0ec2790d4e7ca8432c7759f47956~mv2.png)
 | ---- | ---- |
-| The Moon (2025-01-09) | The Orion Nebula & De Mairan's Nebula (2025-02-02) |
-| ![alt](https://static.wixstatic.com/media/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png) | ![alt](https://static.wixstatic.com/media/b6cf92_7f961ac22d364eeabd2894a224d12781~mv2.jpeg) |
-| The Double Cluster (2024-12-20) | The Seven Sisters (2025-02-01) |
+| The Moon | The Orion Nebula & De Mairan's Nebula |
+| ![alt](https://static.wixstatic.com/media/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png/v1/fill/w_1480,h_832,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png) | ![alt](https://static.wixstatic.com/media/b6cf92_535efb3ec21f4c46a6563c0b76b48655~mv2.png/v1/fill/w_3840,h_2160,al_c,q_90/b6cf92_535efb3ec21f4c46a6563c0b76b48655~mv2.webp) |
+| The Double Cluster | The Flame Nebula |
 
 I regularly go to school or outreach events to encourage kids and adults to like science in general! Please get in touch if you'd like to donate, your funds will be greatly appreciated - I give away telescopes, books, experiments, or any other STEM-linked donation of your choice to state schools, universities' outreach teams, and public libraries.
 
 ## Traveling 🌍🌎
 
-I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::st_lucia::kenya::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium:
+I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::st_lucia::kenya::hong_kong::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium:
 
 ### 2025 🌍🌎
 * :us: Miami, FL, United States
