@@ -39,7 +39,6 @@ I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es:
 * 🇰🇪 Diani Beach, Kenya
 * :kenya: Tsavo East National Park, Kenya
 * 🇪🇸 Sant Feliu de Guixols, Catalonia, Spain
-* 🇪🇸 Magaluf, Mallorca, Spain
 * :hong_kong: Hong Kong, SAR China
 
 ### 2024 🌍🌎
