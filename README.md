@@ -31,7 +31,13 @@ I regularly go to school or outreach events to encourage kids and adults to like
 
 ## Traveling 🌍🌎
 
-I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::st_lucia::kenya::hong_kong::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium:
+I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::st_lucia::kenya::thailand::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium::brazil:
+
+### 2026 🌍🌎🌏
+* :brazil: Rio de Janeiro, Brazil
+* :thailand: Bangkok, Thailand
+* :thailand: Koh Samui, Thailand
+* 🇪🇸 Sant Feliu de Guixols, Catalonia, Spain
 
 ### 2025 🌍🌎
 * :us: Miami, FL, United States
@@ -39,7 +45,7 @@ I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es:
 * 🇰🇪 Diani Beach, Kenya
 * :kenya: Tsavo East National Park, Kenya
 * 🇪🇸 Sant Feliu de Guixols, Catalonia, Spain
-* :hong_kong: Hong Kong, SAR China
+* :st_lucia: Gros Islet, Saint Lucia
 
 ### 2024 🌍🌎
 
