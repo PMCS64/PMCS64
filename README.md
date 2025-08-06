@@ -31,12 +31,12 @@ I regularly go to school or outreach events to encourage kids and adults to like
 
 ## Traveling 🌍🌎
 
-I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::st_lucia::kenya::thailand::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium::brazil:
+I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::st_lucia::kenya::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium::brazil::qatar:
 
 ### 2026 🌍🌎🌏
 * :qatar: Doha, Qatar
 * :brazil: Rio de Janeiro, Brazil
-* Maybe {🇿🇦: Cape Town, South Africa}
+* Maybe {🇿🇦 Cape Town, South Africa}
 
 ### 2025 🌍🌎
 * :us: Miami, FL, United States
