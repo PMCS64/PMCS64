@@ -33,7 +33,7 @@ I regularly go to school or outreach events to encourage kids and adults to like
 
 I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es::bahamas::barbados::st_lucia::kenya::monaco:🇦🇪:it:🇨🇭:andorra::netherlands::belgium::brazil::qatar:
 
-### 2026 🌍🌎🌏
+### 2026 🌍🌎
 * :qatar: Doha, Qatar
 * :brazil: Rio de Janeiro, Brazil
 * Maybe {🇿🇦 Cape Town, South Africa}
