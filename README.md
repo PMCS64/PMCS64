@@ -36,6 +36,7 @@ I am an avid traveler, eager to discovering new places. :uk::us::fr:🇩🇴:es:
 ### 2026 🌍🌎🌏
 * :qatar: Doha, Qatar
 * :brazil: Rio de Janeiro, Brazil
+* Maybe {🇿🇦: Cape Town, South Africa}
 
 ### 2025 🌍🌎
 * :us: Miami, FL, United States
