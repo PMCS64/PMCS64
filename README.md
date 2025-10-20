@@ -26,6 +26,9 @@ I’m an amateur astronomer with a passion for exploring the night sky. I use a 
 | The Moon | The Orion Nebula & De Mairan's Nebula |
 | ![alt](https://static.wixstatic.com/media/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png/v1/fill/w_1480,h_832,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png) | ![alt](https://static.wixstatic.com/media/b6cf92_535efb3ec21f4c46a6563c0b76b48655~mv2.png/v1/fill/w_3840,h_2160,al_c,q_90/b6cf92_535efb3ec21f4c46a6563c0b76b48655~mv2.webp) |
 | The Double Cluster | The Flame Nebula |
+| ![alt](https://static.wixstatic.com/media/b6cf92_67fdf4283e4a417c84e444688bbec310~mv2.png) | ![alt](https://static.wixstatic.com/media/b6cf92_6ea0403ccda846e290f8314f4924a34c~mv2.png) |
+| The Ring Nebula | The Great Hercules Cluster |
+
 
 I regularly go to school or outreach events to encourage kids and adults to like science in general! Please get in touch if you'd like to donate, your funds will be greatly appreciated - I give away telescopes, books, experiments, or any other STEM-linked donation of your choice to state schools, universities' outreach teams, and public libraries.
 
