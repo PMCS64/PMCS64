@@ -1,17 +1,15 @@
 # Pierre Moutounet-Cartan 
 Associate of the Royal College of Science | 🇬🇧 London, United Kingdom | Professional S64 GitHub Account
 
-_Pierre spearheads S64 Capital's data capabilities with the development of S64's comprehensive data repository and analytics platform. Previously, Pierre structured over $4bn worth of equity derivatives products at Credit Suisse globally, and automated the lifecycle of those products generating over $40m of low-touch revenue in the span of 3 years. Pierre holds a Bachelor of Science in Mathematics from Imperial College London (First Class Honours), where he specialized in biomathematics, statistical modeling, and machine learning/AI._
-
 [LinkedIn](https://www.linkedin.com/in/yopierre/?locale=en_US) | [Work Email](mailto:pierre.moutounet-cartan@s64capital.com) | [Alumni Email](mailto:pierre.moutounet-cartan17@alumni.imperial.ac.uk) | [Public Academic Work](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FMoutounet-Cartan%2C%20P%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FMoutounet-Cartan%2C%20P%22)&q=author%3A%22Moutounet-Cartan%2C%20Pierre%20G.%20B.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 **Important notice: this account is not active as of April 2024 as all repositories have been migrated to Azure DevOps.**
 
 ## Repositories
 
-Most, if not all, of the below repositories are private and on Azure DevOps. You will be redirected. 
-
 ### [S64 Capital Research](https://dev.azure.com/s64capital/S64%20Data)
+
+All repositories of S64 Capital Research have been migrated to Azure DevOps since April 2024. No activity will be shown on the below after that date.
 
 * [AltoFlex Data Repository (AltoFlexDARE)](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlex-Data-Repository) via Python (Django), JavaScript, CSS, and more
 * [AltoFlexDARE iOS App](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlexDARE-iOS) via Swift
