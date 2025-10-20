@@ -24,9 +24,9 @@ I’m an amateur astronomer with a passion for exploring the night sky. I use a 
 | ![alt](https://static.wixstatic.com/media/b6cf92_834e0845f2a24c9f8cca3856c936ef2a~mv2.jpg) | ![alt](https://static.wixstatic.com/media/b6cf92_e88b0ec2790d4e7ca8432c7759f47956~mv2.png)
 | ---- | ---- |
 | The Moon | The Orion Nebula & De Mairan's Nebula |
-| ![alt](https://static.wixstatic.com/media/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png) | ![alt](https://static.wixstatic.com/media/b6cf92_535efb3ec21f4c46a6563c0b76b48655~mv2.png) |
+| ![alt](https://static.wixstatic.com/media/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png/v1/fill/w_1480,h_832,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png) | ![alt](https://static.wixstatic.com/media/b6cf92_535efb3ec21f4c46a6563c0b76b48655~mv2.png) |
 | The Double Cluster | The Flame Nebula |
-| ![alt](https://static.wixstatic.com/media/b6cf92_67fdf4283e4a417c84e444688bbec310~mv2.png) | ![alt](https://static.wixstatic.com/media/b6cf92_6ea0403ccda846e290f8314f4924a34c~mv2.png/v1/fill/w_3022,h_1692,al_c,q_90/b6cf92_6ea0403ccda846e290f8314f4924a34c~mv2.webp) |
+| ![alt](https://static.wixstatic.com/media/b6cf92_e364852148d3481daddb8708c1263d4d~mv2.png/v1/fill/w_1514,h_1137,fp_0.50_0.50,q_95,enc_avif,quality_auto/b6cf92_e364852148d3481daddb8708c1263d4d~mv2.png) | ![alt](https://static.wixstatic.com/media/b6cf92_6ea0403ccda846e290f8314f4924a34c~mv2.png/v1/fill/w_1480,h_828,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/b6cf92_6ea0403ccda846e290f8314f4924a34c~mv2.png) |
 | The Ring Nebula | The Great Hercules Cluster |
 
 
