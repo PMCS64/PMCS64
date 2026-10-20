@@ -10,8 +10,8 @@ Associate of the Royal College of Science | 🇬🇧 London, United Kingdom | Pr
 All repositories of S64 Capital Research have been migrated to Azure DevOps since April 2024. No activity will be shown on the below after that date.
 
 * [AltoFlex Data Repository (AltoFlexDARE)](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlex-Data-Repository) via Python (Django), JavaScript, CSS, and more
-* [AltoFlexDARE iOS App](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlexDARE-iOS) via Swift
-* [AltoFlexDARE Android App](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlexDARE-Android-Kotlin) via Kotlin
+* [AltoFlexDARE Meridian (iOS)](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlexDARE-Meridian-iOS) via Swift
+* [AltoFlexDARE Meridian (Web)](https://dev.azure.com/s64capital/S64%20Data/_git/AltoFlexDARE-Meridian) via React.js
 
 ## Astronomy 🌌🔭
 
