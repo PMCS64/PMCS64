@@ -28,11 +28,3 @@ I’m an amateur astronomer with a passion for exploring the night sky. I use a 
 
 I regularly go to school or outreach events to encourage kids and adults to like science in general! Please get in touch if you'd like to donate, your funds will be greatly appreciated - I give away telescopes, books, experiments, or any other STEM-linked donation of your choice to state schools, universities' outreach teams, and public libraries.
 
-  * :fr: Carcassonne, Aude, France
-  * :fr: Marseille, Bouches-du-Rhône, France
-* Other
-  * 🇨🇭 Geneva, Canton of Geneva, Switzerland
-  * :andorra: El Tarter, Andorra
-  * 🇳🇱 Amsterdam, North Holland, Netherlands
-  * 🇧🇪 Brussels, Capitale, Belgium
-  * :uk: Cambridge, Cambridgeshire, United Kingdom
