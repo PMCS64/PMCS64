@@ -17,11 +17,11 @@ All repositories of S64 Capital Research have been migrated to Azure DevOps sinc
 
 I’m an amateur astronomer with a passion for exploring the night sky. I use a Newtonian reflector telescope on a Dobsonian mount (203mm/1200m with focal ratio f/6) to observe planets, nebulae, star clusters, and galaxies. Stargazing is my way of connecting with the cosmos and appreciating the vastness of our universe. Whether it’s tracking celestial events, capturing details of star clusters, or gazing at the Orion Nebula, I’m always in awe of the wonders above. Light pollution presents a challenge in my area, but it hasn’t dimmed my enthusiasm. I love sharing my experiences and learning from the vibrant community of fellow astronomers! You can find some of my observations on this [blog](https://pierremoutounet.wixsite.com/pmc-observatory/blog).
 
-| ![alt](https://static.wixstatic.com/media/b6cf92_834e0845f2a24c9f8cca3856c936ef2a~mv2.jpg) | ![alt](https://static.wixstatic.com/media/b6cf92_e88b0ec2790d4e7ca8432c7759f47956~mv2.png)
+| ![alt](https://static.wixstatic.com/media/b6cf92_834e0845f2a24c9f8cca3856c936ef2a~mv2.jpg) | ![alt](https://static.wixstatic.com/media/b6cf92_63f86f838a7044008f1f726f164eb62c~mv2.jpeg/v1/fill/w_1920,h_3111,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/b6cf92_63f86f838a7044008f1f726f164eb62c~mv2.jpeg) |
 | ---- | ---- |
-| The Moon | The Orion Nebula & De Mairan's Nebula |
-| ![alt](https://static.wixstatic.com/media/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png/v1/fill/w_1480,h_832,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png) | ![alt](https://static.wixstatic.com/media/b6cf92_535efb3ec21f4c46a6563c0b76b48655~mv2.png) |
-| The Double Cluster | The Flame Nebula |
+| The Moon | The Beehive Cluster |
+| ![alt](https://static.wixstatic.com/media/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png/v1/fill/w_1480,h_832,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/b6cf92_b99aea4c7dac478b94acf1267b85ad7e~mv2.png) | ![alt](https://static.wixstatic.com/media/b6cf92_e88b0ec2790d4e7ca8432c7759f47956~mv2.png) |
+| The Double Cluster | The Orion Nebula & De Mairan's Nebula |
 | ![alt](https://static.wixstatic.com/media/b6cf92_e364852148d3481daddb8708c1263d4d~mv2.png/v1/fill/w_1514,h_1137,fp_0.50_0.50,q_95,enc_avif,quality_auto/b6cf92_e364852148d3481daddb8708c1263d4d~mv2.png) | ![alt](https://static.wixstatic.com/media/b6cf92_6ea0403ccda846e290f8314f4924a34c~mv2.png/v1/fill/w_1480,h_828,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/b6cf92_6ea0403ccda846e290f8314f4924a34c~mv2.png) |
 | The Ring Nebula | The Great Hercules Cluster |
 
